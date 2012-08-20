@@ -1,10 +1,10 @@
 Phage-Life-History-Evolution
 ============================
 
-*Collaborators*
+**Collaborators**  
 Christina Burch
 Dan Weinreich
 Lindi Wahl
 
-*Motivating Papers*
+**Motivating Papers**  
 Wahl and deHaan, 2007
